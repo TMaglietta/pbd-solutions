@@ -1,2 +1,2 @@
 # pbd-solutions
-solutions for problems by day
+solutions for programming by doing
