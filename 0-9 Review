@@ -1,4 +1,4 @@
-linux commands:
+Linux Commands:
 ls //list directory contents
 cd //change directory
 cd .. //go back to prev. dir.
@@ -6,6 +6,14 @@ mkdir //make directory
 touch //create empty file
 rm <file>//remove a file
 gedit <filename> & //run gedit from command prompt
+javac <ClassName>.java //compile .java
+java <ClassName> // run java class (program)
+
+Windows Commands:
+DIR //list directory contents
+cd //change directory
+cd .. //go back to prev. dir.
+mkdir //make directory
 javac <ClassName>.java //compile .java
 java <ClassName> // run java class (program)
 
