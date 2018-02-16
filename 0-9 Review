@@ -1,0 +1,30 @@
+#0
+public class One {
+    public static void main(String [] args){
+        System.out.println("Hello");
+        System.out.println("World");
+    }
+}
+
+#1
+output:
+Hello
+World
+
+    System.out.print("Hello");
+    System.out.println("World");
+
+output:
+HelloWorld
+
+#2
+System.out.println("2 + 3");
+
+output:
+2 + 3
+
+#3
+System.out.println(4 + 2);
+
+output:
+6
