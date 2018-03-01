@@ -4,7 +4,7 @@ public class ElseAndIfs{
 		int cars = 40;
 		int buses = 15;
 		
-		if (cars > people) {
+	if (cars > people) {
             System.out.println("We should take the cars.");
         } if (cars < people) { 
             System.out.println("We should not take the cars.");
@@ -28,7 +28,8 @@ public class ElseAndIfs{
             System.out.println("Fine, let's stay home then.");
         }
     }
-}		//else if -> if the previous condition is not met check this
-		//else -> if none of the previous conditions were met run this
-		
-		// removing an else from the else if makes the else run since it will only check ifs and 'linked' else ifs
+}		
+//else if -> if the previous condition is not met check this
+//else -> if none of the previous conditions were met run this
+
+// removing an else from the else if makes the else run since it will only check ifs and 'linked' else ifs
